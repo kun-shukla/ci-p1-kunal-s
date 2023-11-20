@@ -22,6 +22,10 @@ header {
   background-color: blanchedalmond;
 }
 
+h1 {
+  font-family: "Bubblegum Sans", sans-serif;
+}
+
 /* Main Content */
 main {
   background-color: darkolivegreen;
