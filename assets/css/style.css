@@ -27,13 +27,22 @@ header {
   box-shadow: 0 2px 4px #292929;
 }
 
+header a {
+  text-decoration: none;
+  color: inherit;
+}
+
 h1 {
   font-family: "Bubblegum Sans", sans-serif;
+  letter-spacing: 2px;
+  color: #219ebc;
+  /* color: #2a9d8f; */
+  /* color: #ffb703; */
 }
 
 /* Main Content */
 main {
-  background-color: deepskyblue;
+  background-color: rgb(165, 165, 165);
   /* Make the main element take up any surplus space in order to push footer to bottom of page */
   flex: 1 0 auto;
 }
