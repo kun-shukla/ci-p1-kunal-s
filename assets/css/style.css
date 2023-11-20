@@ -13,8 +13,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  /* Generic font color */
   color: #292929;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* Header */
