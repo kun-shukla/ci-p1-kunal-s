@@ -50,6 +50,17 @@ h1 {
   margin-bottom: 1em;
 }
 
+/* Navbar styling with drop-down toggle control */
+nav {
+  position: absolute;
+  background-color: #fff;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 4px #292929;
+  display: none;
+}
+
 /* Main Content */
 main {
   background-color: rgb(165, 165, 165);
