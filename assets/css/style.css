@@ -127,7 +127,6 @@ footer {
 }
 
 /* Media query: laptops and larger (992px and up) */
-
 @media screen and (min-width: 992px) {
   /* Nav menu links */
   #menu a:hover {
